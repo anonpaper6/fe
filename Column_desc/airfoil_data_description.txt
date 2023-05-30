@@ -1,0 +1,7 @@
+f: Frequency
+alpha: Angle of attack
+c: Chord length
+U_infinity: Free-stream velocity
+delta: Suction side displacement thickness
+SSPL: Scaled Sound Pressure Level
+

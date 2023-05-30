@@ -1,0 +1,23 @@
+D1: The binary result of quality assessment
+D2: The binary result of pre-screening, where 1 indicates severe retinal abnormality and 0 its lack.
+C1: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 0.5.
+C2: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 0.6.
+C3: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 0.7.
+C4: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 0.8.
+C5: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 0.9.
+C6: The results of MA detection. The value stand for the number of MAs found at the confidence levels alpha = 1.0.
+C7: The results for exudates. 
+C8: The results for exudates. 
+C9: The results for exudates. 
+C10: The results for exudates. 
+C11: The results for exudates. 
+C12: The results for exudates. 
+C13: The results for exudates. 
+C14: The results for exudates. 
+C15: The euclidean distance of the center of the macula and the center of the optic disc to provide important information
+regarding the patients condition. This feature is also normalized with the diameter of the ROI.
+C16: The diameter of the optic disc.
+D3: The binary result of the AM/FM-based classification.
+label: Class label that contains signs of DR (Accumulative label for the Messidor classes) or not
+
+

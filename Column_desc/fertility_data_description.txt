@@ -1,0 +1,11 @@
+V0: Season in which the analysis was performed.
+V1: Age at the time of analysis. 
+V2: Childish diseases (ie , chicken pox, measles, mumps, polio)
+V3: Accident or serious trauma
+V4: Surgical intervention 
+V5: High fevers in the last year 
+V6: Frequency of alcohol consumption 
+V7: Smoking habit
+V8: Number of hours spent sitting per day
+label: fertility diagnosis (normal or altered) 
+
